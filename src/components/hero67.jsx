@@ -106,12 +106,12 @@ const Hero67 = ({ className }) => {
               ⚡ Começar agora
             </Button>
           </Link>
-          <a
-            href="#"
+          <Link
+            to="/sobre"
             className="rotate-[1.5deg] border-2 border-[#00f0ff] px-6 py-2.5 text-sm font-black uppercase tracking-wider text-[#00f0ff] transition-colors hover:bg-[#00f0ff] hover:text-black"
           >
             ver na moral
-          </a>
+          </Link>
         </div>
       </div>
 
